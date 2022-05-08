@@ -1,0 +1,4 @@
+﻿  Origem.cpp
+C:\Users\rodri\source\repos\hasch\Origem.cpp(26,13): warning C4101: 'c': variável local não referenciada
+C:\Users\rodri\source\repos\hasch\Origem.cpp(77,13): warning C4101: 'c': variável local não referenciada
+  hasch.vcxproj -> C:\Users\rodri\source\repos\hasch\x64\Debug\hasch.exe

@@ -1,0 +1,3 @@
+﻿  Origem.cpp
+C:\Users\rodri\source\repos\Ru_Par_Impar_De_tras_pra_frente\Origem.cpp(28,34): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+  Ru_Par_Impar_De_tras_pra_frente.vcxproj -> C:\Users\rodri\source\repos\Ru_Par_Impar_De_tras_pra_frente\x64\Debug\Ru_Par_Impar_De_tras_pra_frente.exe

@@ -1,0 +1,3 @@
+﻿  Origem.cpp
+C:\Users\rodri\source\repos\calculo_area_hexagono\Origem.cpp(25,30): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  calculo_area_hexagono.vcxproj -> C:\Users\rodri\source\repos\calculo_area_hexagono\x64\Debug\calculo_area_hexagono.exe

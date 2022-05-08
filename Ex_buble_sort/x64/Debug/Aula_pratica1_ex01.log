@@ -1,0 +1,8 @@
+﻿  Origem.cpp
+C:\Users\rodri\Dropbox\PC\Documents\Estudos\Ex_buble_sort\Origem.cpp(10,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  Origem1.cpp
+C:\Users\rodri\Dropbox\PC\Documents\Estudos\Ex_buble_sort\Origem1.cpp(10,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  Gerando Código...
+Origem1.obj : error LNK2005: "void __cdecl BubbleSort(int * const)" (?BubbleSort@@YAXQEAH@Z) já definida no Origem.obj
+Origem1.obj : error LNK2005: main já definida no Origem.obj
+C:\Users\rodri\Dropbox\PC\Documents\Estudos\Ex_buble_sort\x64\Debug\Aula_pratica1_ex01.exe : fatal error LNK1169: encontrados um ou mais símbolos múltiplos definidos

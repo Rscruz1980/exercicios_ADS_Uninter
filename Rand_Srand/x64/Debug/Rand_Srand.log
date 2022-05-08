@@ -1,0 +1,3 @@
+﻿  Origem.cpp
+C:\Users\rodri\source\repos\Rand_Srand\Origem.cpp(10,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  Rand_Srand.vcxproj -> C:\Users\rodri\source\repos\Rand_Srand\x64\Debug\Rand_Srand.exe
